@@ -1,4 +1,6 @@
 # Mixed-Reality-Resume-for-iOS
+
+## Overview
 In order to learn more about mixed reality for iOS, I built out my resume using reality composer. 
 
 Here are here key findings
@@ -11,13 +13,13 @@ Here are here key findings
 remove from the project. If this fails to compile, its because the only way I found to "remove" the wrong pictures is not to git commit
 them.
 
-Demo
+## Demo
 
 
 https://user-images.githubusercontent.com/10582919/181585548-3d5a58d4-a6e5-4c74-8c59-ede5f4f417e9.mov
 
 
-
+## Instruction Steps
 Want to build your own project like this? Here's the steps I (should have) took:
 </br>
 1. When creating a new project in Xcode, hit augmented reality app. Pick UiKit/Storyboard, NOT SwiftUi. With Xcode 12 the SwiftUI augmented reality starter project will not build and you'll get error messages. You don't need that negativity in your life. Pick UI kit.
