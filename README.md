@@ -11,6 +11,12 @@ Here are here key findings
 remove from the project. If this fails to compile, its because the only way I found to "remove" the wrong pictures is not to git commit
 them.
 
+Demo
+
+
+https://user-images.githubusercontent.com/10582919/181585548-3d5a58d4-a6e5-4c74-8c59-ede5f4f417e9.mov
+
+
 
 Want to build your own project like this? Here's the steps I (should have) took:
 </br>
